@@ -26,4 +26,5 @@ Thumbs.db
 
 # Data (optional – depends if dataset is large)
 data/
+!data/irrigation_prediction.csv
 data_processed/
